@@ -29,11 +29,17 @@ This project segments retail customers based on their purchasing behavior using 
 
 ## 📂 Project Structure  
 ├── data/
+
 │ └── Online_Retail.xlsx # Raw transaction data
+
 ├── notebooks/
+
 │ └── RFM_Analysis.ipynb # Full analysis workflow
+
 ├── src/
+
 │ └── rfm_utils.py # Helper functions
+
 └── README.md
 
          ## 📈 Key Insights  
